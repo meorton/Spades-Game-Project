@@ -115,11 +115,12 @@ namespace Mehran.Game
             this.menuItem1.MenuItems.AddRange(new System.Windows.Forms.MenuItem[] {
             this.about});
             this.menuItem1.Text = "Help";
+            this.menuItem1.Click += new System.EventHandler(this.MenuItem1_Click);
             // 
             // about
             // 
             this.about.Index = 0;
-            this.about.Text = "About";
+            this.about.Text = "Game Rules";
             this.about.Click += new System.EventHandler(this.about_Click);
             // 
             // GrandSlam
@@ -1508,5 +1509,10 @@ namespace Mehran.Game
 		{
 			new About().ShowDialog();
 		}
-	}
+
+        private void MenuItem1_Click(object sender, EventArgs e)
+        {
+
+        }
+    }
 }

@@ -117,4 +117,7 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="label3.Text" xml:space="preserve">
+    <value>The player on the dealer's left makes the opening lead by playing a single card of their choice.[7] Players in clockwise fashion then play cards of their choice; they must follow suit if they can; otherwise they may play any card, including a trump Spade.[6] Once a card has left the hand of a player, it stands and cannot be retrieved unless the player who threw the card makes an effort to correct his mistake before the next player lays down a card.</value>
+  </data>
 </root>

@@ -54,6 +54,7 @@ namespace Mehran.Game
 		/// </summary>
 		private void InitializeComponent()
 		{
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(About));
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
@@ -62,40 +63,42 @@ namespace Mehran.Game
             // 
             // label1
             // 
-            this.label1.Font = new System.Drawing.Font("Century Gothic", 15.75F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.ForeColor = System.Drawing.Color.Crimson;
-            this.label1.Location = new System.Drawing.Point(38, 12);
+            this.label1.Location = new System.Drawing.Point(125, 36);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(186, 23);
             this.label1.TabIndex = 0;
             this.label1.Text = "S.P.A.D.E.S";
             this.label1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            this.label1.Click += new System.EventHandler(this.Label1_Click);
             // 
             // label2
             // 
             this.label2.Font = new System.Drawing.Font("Arial", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(178)));
-            this.label2.Location = new System.Drawing.Point(32, 56);
+            this.label2.Location = new System.Drawing.Point(43, 74);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(188, 23);
+            this.label2.Size = new System.Drawing.Size(345, 66);
             this.label2.TabIndex = 1;
-            this.label2.Text = "Spades Project for this class";
+            this.label2.Text = "Each hand consists of a number of tricks (the 4-handed game contains 13 tricks us" +
+    "ing all 52 cards)";
             this.label2.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             this.label2.Click += new System.EventHandler(this.Label2_Click);
             // 
             // label3
             // 
-            this.label3.Location = new System.Drawing.Point(46, 38);
+            this.label3.Location = new System.Drawing.Point(24, 131);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(174, 18);
+            this.label3.Size = new System.Drawing.Size(380, 186);
             this.label3.TabIndex = 2;
-            this.label3.Text = "2019 @Copy right";
+            this.label3.Text = resources.GetString("label3.Text");
             this.label3.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // button1
             // 
             this.button1.FlatStyle = System.Windows.Forms.FlatStyle.System;
             this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(178)));
-            this.button1.Location = new System.Drawing.Point(96, 96);
+            this.button1.Location = new System.Drawing.Point(185, 351);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(75, 23);
             this.button1.TabIndex = 3;
@@ -106,7 +109,7 @@ namespace Mehran.Game
             // 
             this.AutoScaleBaseSize = new System.Drawing.Size(7, 15);
             this.BackColor = System.Drawing.Color.Cornsilk;
-            this.ClientSize = new System.Drawing.Size(266, 128);
+            this.ClientSize = new System.Drawing.Size(439, 388);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
@@ -128,6 +131,11 @@ namespace Mehran.Game
 		}
 
         private void Label2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Label1_Click(object sender, EventArgs e)
         {
 
         }

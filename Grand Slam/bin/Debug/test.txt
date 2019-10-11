@@ -1,10 +1,10 @@
 ===============NewPeriod==============
-Player0 MaxScore is: 35
-Player0 Maxfigure is: 20
+Player0 MaxScore is: 25
+Player0 Maxfigure is: 15
 
-Player1 MaxScore is: 31
-Player1 Maxfigure is: 20
+Player1 MaxScore is: 41
+Player1 Maxfigure is: 25
 
-Player2 MaxScore is: 41
+Player2 MaxScore is: 45
 Player2 Maxfigure is: 25
 
