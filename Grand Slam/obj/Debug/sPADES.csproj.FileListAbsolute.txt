@@ -1,0 +1,88 @@
+C:\Users\Programming12\Downloads\proj\Grand Slam\bin\Debug\SPADES.exe
+C:\Users\Programming12\Downloads\proj\Grand Slam\bin\Debug\SPADES.pdb
+C:\Users\Programming12\Downloads\proj\Grand Slam\bin\Debug\Card.dll
+C:\Users\Programming12\Downloads\proj\Grand Slam\bin\Debug\Card.pdb
+C:\Users\Programming12\Downloads\proj\Grand Slam\obj\Debug\Mehran.Game.About.resources
+C:\Users\Programming12\Downloads\proj\Grand Slam\obj\Debug\Mehran.Game.GrandSlam.resources
+C:\Users\Programming12\Downloads\proj\Grand Slam\obj\Debug\Mehran.PrefigureControl.resources
+C:\Users\Programming12\Downloads\proj\Grand Slam\obj\Debug\Mehran.Game.Scores.resources
+C:\Users\Programming12\Downloads\proj\Grand Slam\obj\Debug\sPADES.csproj.GenerateResource.cache
+C:\Users\Programming12\Downloads\proj\Grand Slam\obj\Debug\sPADES.csproj.CoreCompileInputs.cache
+C:\Users\Programming12\Downloads\proj\Grand Slam\obj\Debug\sPADES.csproj.CopyComplete
+C:\Users\Programming12\Downloads\proj\Grand Slam\obj\Debug\SPADES.exe
+C:\Users\Programming12\Downloads\proj\Grand Slam\obj\Debug\SPADES.pdb
+C:\Users\Programming12\Downloads\proj\Grand Slam\obj\Debug\sPADES.csprojAssemblyReference.cache
+C:\Users\Programming12\Downloads\proj\Grand Slam\obj\Debug\SPADES.Properties.Resources.resources
+E:\SCHOOL\proj -\Grand Slam\bin\Debug\SPADES.exe
+E:\SCHOOL\proj -\Grand Slam\bin\Debug\SPADES.pdb
+E:\SCHOOL\proj -\Grand Slam\bin\Debug\Card.dll
+E:\SCHOOL\proj -\Grand Slam\bin\Debug\Card.pdb
+E:\SCHOOL\proj -\Grand Slam\obj\Debug\sPADES.csprojAssemblyReference.cache
+E:\SCHOOL\proj -\Grand Slam\obj\Debug\Mehran.Game.About.resources
+E:\SCHOOL\proj -\Grand Slam\obj\Debug\SPADES.Properties.Resources.resources
+E:\SCHOOL\proj -\Grand Slam\obj\Debug\Mehran.Game.GrandSlam.resources
+E:\SCHOOL\proj -\Grand Slam\obj\Debug\Mehran.PrefigureControl.resources
+E:\SCHOOL\proj -\Grand Slam\obj\Debug\Mehran.Game.Scores.resources
+E:\SCHOOL\proj -\Grand Slam\obj\Debug\sPADES.csproj.GenerateResource.cache
+E:\SCHOOL\proj -\Grand Slam\obj\Debug\sPADES.csproj.CoreCompileInputs.cache
+E:\SCHOOL\proj -\Grand Slam\obj\Debug\sPADES.csproj.CopyComplete
+E:\SCHOOL\proj -\Grand Slam\obj\Debug\SPADES.exe
+E:\SCHOOL\proj -\Grand Slam\obj\Debug\SPADES.pdb
+C:\Users\Programming6\Downloads\proj - - Copy\Grand Slam\obj\Debug\Mehran.Game.About.resources
+C:\Users\Programming6\Downloads\proj - - Copy\Grand Slam\obj\Debug\SPADES.Properties.Resources.resources
+C:\Users\Programming6\Downloads\proj - - Copy\Grand Slam\obj\Debug\Mehran.Game.GrandSlam.resources
+C:\Users\Programming6\Downloads\proj - - Copy\Grand Slam\obj\Debug\Mehran.PrefigureControl.resources
+C:\Users\Programming6\Downloads\proj - - Copy\Grand Slam\obj\Debug\Mehran.Game.Scores.resources
+C:\Users\Programming6\Downloads\proj - - Copy\Grand Slam\obj\Debug\sPADES.csproj.GenerateResource.cache
+C:\Users\Programming6\Downloads\proj - - Copy\Grand Slam\obj\Debug\sPADES.csproj.CoreCompileInputs.cache
+C:\Users\Programming6\Downloads\proj - - Copy\Grand Slam\bin\Debug\SPADES.exe
+C:\Users\Programming6\Downloads\proj - - Copy\Grand Slam\bin\Debug\SPADES.pdb
+C:\Users\Programming6\Downloads\proj - - Copy\Grand Slam\bin\Debug\Card.dll
+C:\Users\Programming6\Downloads\proj - - Copy\Grand Slam\bin\Debug\Card.pdb
+C:\Users\Programming6\Downloads\proj - - Copy\Grand Slam\obj\Debug\sPADES.csproj.CopyComplete
+C:\Users\Programming6\Downloads\proj - - Copy\Grand Slam\obj\Debug\SPADES.exe
+C:\Users\Programming6\Downloads\proj - - Copy\Grand Slam\obj\Debug\SPADES.pdb
+E:\SCHOOL\proj\Grand Slam\bin\Debug\SPADES.exe
+E:\SCHOOL\proj\Grand Slam\bin\Debug\SPADES.pdb
+E:\SCHOOL\proj\Grand Slam\bin\Debug\Card.dll
+E:\SCHOOL\proj\Grand Slam\bin\Debug\Card.pdb
+E:\SCHOOL\proj\Grand Slam\obj\Debug\Mehran.Game.About.resources
+E:\SCHOOL\proj\Grand Slam\obj\Debug\SPADES.Properties.Resources.resources
+E:\SCHOOL\proj\Grand Slam\obj\Debug\Mehran.Game.GrandSlam.resources
+E:\SCHOOL\proj\Grand Slam\obj\Debug\Mehran.PrefigureControl.resources
+E:\SCHOOL\proj\Grand Slam\obj\Debug\Mehran.Game.Scores.resources
+E:\SCHOOL\proj\Grand Slam\obj\Debug\sPADES.csproj.GenerateResource.cache
+E:\SCHOOL\proj\Grand Slam\obj\Debug\sPADES.csproj.CoreCompileInputs.cache
+E:\SCHOOL\proj\Grand Slam\obj\Debug\sPADES.csproj.CopyComplete
+E:\SCHOOL\proj\Grand Slam\obj\Debug\SPADES.exe
+E:\SCHOOL\proj\Grand Slam\obj\Debug\SPADES.pdb
+C:\Users\Programming6\Downloads\proj\Grand Slam\bin\Debug\SPADES.exe
+C:\Users\Programming6\Downloads\proj\Grand Slam\bin\Debug\SPADES.pdb
+C:\Users\Programming6\Downloads\proj\Grand Slam\bin\Debug\Card.dll
+C:\Users\Programming6\Downloads\proj\Grand Slam\bin\Debug\Card.pdb
+C:\Users\Programming6\Downloads\proj\Grand Slam\obj\Debug\sPADES.csprojAssemblyReference.cache
+C:\Users\Programming6\Downloads\proj\Grand Slam\obj\Debug\Mehran.Game.About.resources
+C:\Users\Programming6\Downloads\proj\Grand Slam\obj\Debug\SPADES.Properties.Resources.resources
+C:\Users\Programming6\Downloads\proj\Grand Slam\obj\Debug\Mehran.Game.GrandSlam.resources
+C:\Users\Programming6\Downloads\proj\Grand Slam\obj\Debug\Mehran.PrefigureControl.resources
+C:\Users\Programming6\Downloads\proj\Grand Slam\obj\Debug\Mehran.Game.Scores.resources
+C:\Users\Programming6\Downloads\proj\Grand Slam\obj\Debug\sPADES.csproj.GenerateResource.cache
+C:\Users\Programming6\Downloads\proj\Grand Slam\obj\Debug\sPADES.csproj.CoreCompileInputs.cache
+C:\Users\Programming6\Downloads\proj\Grand Slam\obj\Debug\sPADES.csproj.CopyComplete
+C:\Users\Programming6\Downloads\proj\Grand Slam\obj\Debug\SPADES.exe
+C:\Users\Programming6\Downloads\proj\Grand Slam\obj\Debug\SPADES.pdb
+C:\project\Grand Slam\bin\Debug\SPADES.exe
+C:\project\Grand Slam\bin\Debug\SPADES.pdb
+C:\project\Grand Slam\bin\Debug\Card.dll
+C:\project\Grand Slam\bin\Debug\Card.pdb
+C:\project\Grand Slam\obj\Debug\sPADES.csprojAssemblyReference.cache
+C:\project\Grand Slam\obj\Debug\Mehran.Game.About.resources
+C:\project\Grand Slam\obj\Debug\SPADES.Properties.Resources.resources
+C:\project\Grand Slam\obj\Debug\Mehran.Game.GrandSlam.resources
+C:\project\Grand Slam\obj\Debug\Mehran.PrefigureControl.resources
+C:\project\Grand Slam\obj\Debug\Mehran.Game.Scores.resources
+C:\project\Grand Slam\obj\Debug\sPADES.csproj.GenerateResource.cache
+C:\project\Grand Slam\obj\Debug\sPADES.csproj.CoreCompileInputs.cache
+C:\project\Grand Slam\obj\Debug\sPADES.csproj.CopyComplete
+C:\project\Grand Slam\obj\Debug\SPADES.exe
+C:\project\Grand Slam\obj\Debug\SPADES.pdb

@@ -1,0 +1,28 @@
+C:\Users\Programming12\Downloads\Grand Slam\obj\Debug\Grand Slam.csprojAssemblyReference.cache
+C:\Users\Programming12\Downloads\Grand Slam\obj\Debug\Mehran.Game.About.resources
+C:\Users\Programming12\Downloads\Grand Slam\obj\Debug\Mehran.Game.GrandSlam.resources
+C:\Users\Programming12\Downloads\Grand Slam\obj\Debug\Mehran.PrefigureControl.resources
+C:\Users\Programming12\Downloads\Grand Slam\obj\Debug\Mehran.Game.Scores.resources
+C:\Users\Programming12\Downloads\Grand Slam\obj\Debug\Grand Slam.csproj.GenerateResource.cache
+C:\Users\Programming12\Downloads\Grand Slam\obj\Debug\Grand Slam.csproj.CoreCompileInputs.cache
+C:\Users\Programming12\Downloads\Grand Slam\bin\Debug\Grand Slam.exe
+C:\Users\Programming12\Downloads\Grand Slam\bin\Debug\Grand Slam.pdb
+C:\Users\Programming12\Downloads\Grand Slam\bin\Debug\Card.dll
+C:\Users\Programming12\Downloads\Grand Slam\bin\Debug\Card.pdb
+C:\Users\Programming12\Downloads\Grand Slam\obj\Debug\Grand Slam.csproj.CopyComplete
+C:\Users\Programming12\Downloads\Grand Slam\obj\Debug\Grand Slam.exe
+C:\Users\Programming12\Downloads\Grand Slam\obj\Debug\Grand Slam.pdb
+C:\Users\Programming12\Downloads\proj\Grand Slam\bin\Debug\Card.dll
+C:\Users\Programming12\Downloads\proj\Grand Slam\bin\Debug\Card.pdb
+C:\Users\Programming12\Downloads\proj\Grand Slam\obj\Debug\Mehran.Game.About.resources
+C:\Users\Programming12\Downloads\proj\Grand Slam\obj\Debug\Mehran.Game.GrandSlam.resources
+C:\Users\Programming12\Downloads\proj\Grand Slam\obj\Debug\Mehran.PrefigureControl.resources
+C:\Users\Programming12\Downloads\proj\Grand Slam\obj\Debug\Mehran.Game.Scores.resources
+C:\Users\Programming12\Downloads\proj\Grand Slam\obj\Debug\Grand Slam.csproj.GenerateResource.cache
+C:\Users\Programming12\Downloads\proj\Grand Slam\obj\Debug\Grand Slam.csproj.CoreCompileInputs.cache
+C:\Users\Programming12\Downloads\proj\Grand Slam\obj\Debug\Grand Slam.csproj.CopyComplete
+C:\Users\Programming12\Downloads\proj\Grand Slam\bin\Debug\SPADES.exe
+C:\Users\Programming12\Downloads\proj\Grand Slam\bin\Debug\SPADES.pdb
+C:\Users\Programming12\Downloads\proj\Grand Slam\obj\Debug\SPADES.exe
+C:\Users\Programming12\Downloads\proj\Grand Slam\obj\Debug\SPADES.pdb
+C:\Users\Programming12\Downloads\proj\Grand Slam\obj\Debug\Grand Slam.csprojAssemblyReference.cache

@@ -1,0 +1,23 @@
+C:\Users\Programming12\Downloads\Card\bin\Debug\Card.dll
+C:\Users\Programming12\Downloads\Card\bin\Debug\Card.pdb
+C:\Users\Programming12\Downloads\Card\obj\Debug\Card.CardImages.resources
+C:\Users\Programming12\Downloads\Card\obj\Debug\Card.csproj.GenerateResource.cache
+C:\Users\Programming12\Downloads\Card\obj\Debug\Card.csproj.CoreCompileInputs.cache
+C:\Users\Programming12\Downloads\Card\obj\Debug\Card.dll
+C:\Users\Programming12\Downloads\Card\obj\Debug\Card.pdb
+C:\Users\Programming12\Downloads\proj\Card\bin\Debug\Card.dll
+C:\Users\Programming12\Downloads\proj\Card\bin\Debug\Card.pdb
+C:\Users\Programming12\Downloads\proj\Card\obj\Debug\Card.csprojAssemblyReference.cache
+C:\Users\Programming12\Downloads\proj\Card\obj\Debug\Card.CardImages.resources
+C:\Users\Programming12\Downloads\proj\Card\obj\Debug\Card.csproj.GenerateResource.cache
+C:\Users\Programming12\Downloads\proj\Card\obj\Debug\Card.csproj.CoreCompileInputs.cache
+C:\Users\Programming12\Downloads\proj\Card\obj\Debug\Card.dll
+C:\Users\Programming12\Downloads\proj\Card\obj\Debug\Card.pdb
+C:\Users\Programming6\Downloads\proj - - Copy\Card\bin\Debug\Card.dll
+C:\Users\Programming6\Downloads\proj - - Copy\Card\bin\Debug\Card.pdb
+C:\Users\Programming6\Downloads\proj - - Copy\Card\obj\Debug\Card.CardImages.resources
+C:\Users\Programming6\Downloads\proj - - Copy\Card\obj\Debug\Card.csproj.GenerateResource.cache
+C:\Users\Programming6\Downloads\proj - - Copy\Card\obj\Debug\Card.csproj.CoreCompileInputs.cache
+C:\Users\Programming6\Downloads\proj - - Copy\Card\obj\Debug\Card.dll
+C:\Users\Programming6\Downloads\proj - - Copy\Card\obj\Debug\Card.pdb
+C:\Users\Programming6\Downloads\proj - - Copy\Card\obj\Debug\Card.csprojAssemblyReference.cache
